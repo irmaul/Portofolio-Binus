@@ -1,0 +1,54 @@
+Tanggal Transaksi: 02 / 01 / 2023
+Atas Nama: Iqbal
+Jenis Pemesanan yang dipilih : Dine in
+Latte x2
+Total Biaya: 28000
+
+Tanggal Transaksi: 04 / 01 / 2023
+Atas Nama: Ezra
+Jenis Pemesanan yang dipilih : Dine in
+Americano x3
+Total Biaya: 33000
+
+Tanggal Transaksi: 05 / 01 / 2023
+Atas Nama: Daniel
+Jenis Pemesanan yang dipilih : Dine in
+Latte x2
+Total Biaya: 24000
+
+Tanggal Transaksi: 15 / 01 / 2023
+Atas Nama: KelompokA1
+Jenis Pemesanan yang dipilih : Dine in
+Matcha x4
+Total Biaya: 56000
+
+Tanggal Transaksi: 12 / 02 / 2023
+Atas Nama: Iqbal
+Jenis Pemesanan yang dipilih : Take Away
+Latte x2
+Total Biaya: 28000
+
+Tanggal Transaksi: 12 / 03 / 2023
+Atas Nama: Daniel
+Jenis Pemesanan yang dipilih : Take Away
+Latte x2
+Total Biaya: 32000
+
+Tanggal Transaksi: 11 / 03 / 2023
+Atas Nama: Ezra
+Jenis Pemesanan yang dipilih : Take Away
+Latte x2
+Total Biaya: 28000
+
+Tanggal Transaksi: 15 / 02 / 2021
+Atas Nama: anomA
+Jenis Pemesanan yang dipilih : Take Away
+Americano x3
+Total Biaya: 54000
+
+Tanggal Transaksi: 16 / 02 / 2021
+Atas Nama: anomB
+Jenis Pemesanan yang dipilih : Dine in
+Latte x2
+Total Biaya: 32000
+
