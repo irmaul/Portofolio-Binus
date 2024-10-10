@@ -1,0 +1,10 @@
+W = 26 /10 2-62
+X = 27 /20 2-30
+Y = 26 /30 2-62
+Z = 26 /40 2-62
+V = 27 /50 2-30
+Surabaya = X,Y,Z,V
+Medan = W,Y,Z,V
+Denpasar = X,W,Z,V
+Makassar = W,X,V
+Pontianak = Y,Z,V
